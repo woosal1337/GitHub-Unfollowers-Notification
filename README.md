@@ -1,2 +1,2 @@
 # GitHub-Unfollowers-Notification
-Python automation script, whichs sends mail if someone unfollows your GitHub account.
+Python automation script, which sends mail if someone unfollows your GitHub account.
