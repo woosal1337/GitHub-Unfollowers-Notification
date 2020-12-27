@@ -2,7 +2,7 @@
 
 > By just adding your own tokens and changing the name of the given account to yours, you can easily deploy it on any platform you want, and wait for the updates on your Github account to constantly sent to your given mail account.
 
-### Some API Keys:
+### Some API Keywords:
 
 ```
 [
